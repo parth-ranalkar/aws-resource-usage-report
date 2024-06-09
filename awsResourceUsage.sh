@@ -7,7 +7,7 @@
 #
 # Version : v1
 #
-# This script will report the AWS resource usage
+# This script will generate report of the AWS resources usage
 ####################################################
 
 
