@@ -1,3 +1,3 @@
 # aws-resource-usage-report
 
-In this repository, I've developed a shell script used daily by DevOps engineers to track the usage of AWS resources and generate a report. By scheduling it with crontab, it runs automatically on a daily or weekly basis, depending on the requirements.
+I developed a shell script that helps DevOps engineers track AWS resource usage and generate detailed reports. By scheduling the script with crontab, it runs automatically on a daily or weekly basis, depending on the specific requirements. This automation ensures regular monitoring and reporting without manual intervention.
